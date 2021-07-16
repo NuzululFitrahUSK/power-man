@@ -1,0 +1,20 @@
+Generator:
+Info: Generator Swing dipilih
+Rating: 20MW dan 3.3 KV. Sisanya akan otomatis terisi.
+Klik Ok.
+
+Trafo:
+Tegangan sekunder: 0.4 kv dan 20MVA.
+Klik Typical Z & X/R, sehingga nilai Z dan X/R trafo keluar.
+Klik Ok.
+
+Motor:
+Rating 50KW. ETAP akan memberikan dua pilihan 
+(NEC atau MFR), anda pilih salah satu bebas, nantinya kita bisa edit manual. (Saya pilih MFR)
+Klik Ok.
+
+
+
+
+
+file:///C:/Users/Nuzulul%20Fitrah/Downloads/Documents/digital_20174491-S95-Analisis%20statis.pdf
